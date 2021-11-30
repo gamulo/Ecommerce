@@ -1,0 +1,30 @@
+{
+	"_id" : ObjectId("60c4bf134a260000c1000923"),
+	"image_url" : "images/burking.jpg",
+	"Shop" : "Burger King"
+},
+{
+	"_id" : ObjectId("60c4bf254a260000c1000924"),
+	"image_url" : "images/star.jpg",
+	"Shop" : "Starbucks"
+},
+{
+	"_id" : ObjectId("60c4bf3c4a260000c1000925"),
+	"image_url" : "images/mcdo.png",
+	"Shop" : "McDonalds"
+},
+{
+	"_id" : ObjectId("60c4c56d4a260000c100092f"),
+	"image_url" : "images/jol.png",
+	"Shop" : "Jollibee"
+},
+{
+	"_id" : ObjectId("60c6d9d4f312000005002e99"),
+	"image_url" : "images/subway.jpg",
+	"Shop" : "Subway"
+},
+{
+	"_id" : ObjectId("60c6db67f312000005002e9b"),
+	"image_url" : "images/domino.png",
+	"Shop" : "Domino&#39;s Pizza"
+},

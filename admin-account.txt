@@ -1,0 +1,9 @@
+NOTE : INSERT THIS IN MONGO USING CMD OR MONGODB COMPASS TO ACCESS THE ADMIN PAGE
+db.admin.insert({
+    Username: "admin",
+    Password: "admin"
+    
+})
+
+
+    

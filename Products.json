@@ -1,0 +1,63 @@
+{
+	"_id" : ObjectId("60c4bf8f4a260000c1000927"),
+	"Price" : "699",
+	"prodimage" : "images/download.jpg",
+	"ProductName" : "Bucket Meal",
+	"Shop" : "Jollibee"
+},
+{
+	"_id" : ObjectId("60c4bfba4a260000c1000928"),
+	"Price" : "150",
+	"prodimage" : "images/new-Starbucks-iced-coffee-drink-Cool-Mom-Eats.jpg",
+	"ProductName" : "Iced Coffee",
+	"Shop" : "Starbucks"
+},
+{
+	"_id" : ObjectId("60c4bff14a260000c1000929"),
+	"Price" : "199",
+	"prodimage" : "images/offer.png",
+	"ProductName" : "Whopper Combo",
+	"Shop" : "Burger King"
+},
+{
+	"_id" : ObjectId("60c4c01f4a260000c100092a"),
+	"Price" : "99",
+	"prodimage" : "images/MDSProdImage2020-Plates-ALC-1pcchixfries 435x320px.png",
+	"ProductName" : "1pc Chicken w/ fries",
+	"Shop" : "McDonalds"
+},
+{
+	"_id" : ObjectId("60c4c04f4a260000c100092b"),
+	"Price" : "85",
+	"prodimage" : "images/Irish_Cream_Coffee_Pudding_Frappuccino_resize.jpg",
+	"ProductName" : "Cappuccino",
+	"Shop" : "Starbucks"
+},
+{
+	"_id" : ObjectId("60c4c58c4a260000c1000930"),
+	"Price" : "122",
+	"prodimage" : "images/darkmochafrapp.jpg",
+	"ProductName" : "Dark Mocha",
+	"Shop" : "Starbucks"
+},
+{
+	"_id" : ObjectId("60c6daa8f312000005002e9a"),
+	"Price" : "149",
+	"prodimage" : "images/RPLC-all-sandwiches-sliced-chicken-PH-594x334.jpg",
+	"ProductName" : "Sliced Chicken",
+	"Shop" : "Subway"
+},
+{
+	"_id" : ObjectId("60c6dba8f312000005002e9c"),
+	"Price" : "299",
+	"prodimage" : "images/S_CM.jpg",
+	"ProductName" : "Cheese Mania",
+	"Shop" : "Domino&#39;s Pizza"
+},
+{
+	"_id" : ObjectId("60c6dc29f312000005002e9d"),
+	"Price" : "99",
+	"prodimage" : "images/halo.png",
+	"ProductName" : "Halo-Halo",
+	"Shop" : "Jollibee"
+},

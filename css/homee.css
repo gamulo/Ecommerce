@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  background-attachment: fixed;
+  background-size: cover;
+  transform: center;
+}
+
+/* ------------------------- NAVBAR START ------------*/
+.container {
+  background-color: #444;
+  color: #fff;
+  opacity: 0.9;
+  padding: 0.4px;
+}
+
+nav {
+  position: sticky;
+  top: 0;
+  height: 5px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 20;
+}
+
+ul {
+  background-color: none;
+  list-style-type: none;
+  height: 50px;
+  padding-right: 30px;
+}
+
+.logout,
+.cart,
+.home {
+  float: right;
+  font-size: 23px;
+  width: 100;
+  margin-top: -30px;
+  text-align: center;
+  padding: 5px 15px;
+}
+
+a {
+  text-decoration: none;
+  color: White;
+}
+.shop {
+  color: black;
+  border: 5px;
+  background: orange;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 30px;
+  font-weight: 600;
+  width: 100px;
+  padding: 5px;
+}
+.shop1 {
+  margin-top: 10px;
+}
+.shop:hover {
+  color: white;
+}
+
+a:hover {
+  color: orange;
+}
+
+.gallery {
+  padding-right: 30px;
+}
+
+/* ------------------------- NAVBAR END ------------*/
+
+.name {
+  display: block;
+  text-align: center;
+  font-size: 50px;
+  padding-top: 60px;
+}
+
+h2 {
+  margin-top: 5px;
+}
+
+/* --------- BUTTON ------- */
+i {
+  font-size: 70px;
+  padding-bottom: 100px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+/* -------- BUTTON END------ */
+
+/*------- GALLERY --------*/
+#sec2 {
+  text-align: center;
+  width: auto;
+  background-image: url(bg/bg2.1.gif);
+  background-color: white;
+  background-attachment: fixed;
+  background-size: cover;
+  transform: center;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+  padding-top: 10px;
+}
+
+img:hover {
+  filter: drop-shadow(3px 3px 1px gray);
+}
+.image {
+  font-size: 50px;
+  padding-top: 100px;
+}
+/*------- GALLERY END--------*/
+.active {
+  color: orange;
+}
